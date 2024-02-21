@@ -1,3 +1,4 @@
 # Nawaz-demo
-This is my first Git repository
-author-Md Shahnawaz
+This is my first Git repository.
+<br>
+Author-Md Shahnawaz
